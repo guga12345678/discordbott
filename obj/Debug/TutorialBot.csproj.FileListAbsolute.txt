@@ -1,0 +1,60 @@
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\bin\Debug\TutorialBot.exe.config
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\bin\Debug\TutorialBot.exe
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\bin\Debug\TutorialBot.pdb
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\bin\Debug\Discord.Net.Core.xml
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\bin\Debug\System.Collections.Immutable.xml
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\bin\Debug\System.Interactive.Async.xml
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\obj\Debug\TutorialBot.csproj.AssemblyReference.cache
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\obj\Debug\TutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\obj\Debug\TutorialBot.csproj.CopyComplete
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\obj\Debug\TutorialBot.exe
+C:\Users\guga toradze\Downloads\TutorialBot-master2\TutorialBot-master\obj\Debug\TutorialBot.pdb
+C:\Users\guga toradze\Desktop\isra angry\bin\Debug\TutorialBot.exe.config
+C:\Users\guga toradze\Desktop\isra angry\bin\Debug\TutorialBot.exe
+C:\Users\guga toradze\Desktop\isra angry\bin\Debug\TutorialBot.pdb
+C:\Users\guga toradze\Desktop\isra angry\bin\Debug\Discord.Net.Core.xml
+C:\Users\guga toradze\Desktop\isra angry\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\guga toradze\Desktop\isra angry\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\guga toradze\Desktop\isra angry\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guga toradze\Desktop\isra angry\bin\Debug\System.Collections.Immutable.xml
+C:\Users\guga toradze\Desktop\isra angry\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\guga toradze\Desktop\isra angry\bin\Debug\System.Interactive.Async.xml
+C:\Users\guga toradze\Desktop\isra angry\obj\Debug\TutorialBot.csproj.AssemblyReference.cache
+C:\Users\guga toradze\Desktop\isra angry\obj\Debug\TutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\guga toradze\Desktop\isra angry\obj\Debug\TutorialBot.csproj.CopyComplete
+C:\Users\guga toradze\Desktop\isra angry\obj\Debug\TutorialBot.exe
+C:\Users\guga toradze\Desktop\isra angry\obj\Debug\TutorialBot.pdb
+C:\Users\guga toradze\Desktop\ruskie#2\bin\Debug\TutorialBot.exe.config
+C:\Users\guga toradze\Desktop\ruskie#2\bin\Debug\TutorialBot.exe
+C:\Users\guga toradze\Desktop\ruskie#2\bin\Debug\TutorialBot.pdb
+C:\Users\guga toradze\Desktop\ruskie#2\bin\Debug\Discord.Net.Core.xml
+C:\Users\guga toradze\Desktop\ruskie#2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\guga toradze\Desktop\ruskie#2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\guga toradze\Desktop\ruskie#2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guga toradze\Desktop\ruskie#2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\guga toradze\Desktop\ruskie#2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\guga toradze\Desktop\ruskie#2\bin\Debug\System.Interactive.Async.xml
+C:\Users\guga toradze\Desktop\ruskie#2\obj\Debug\TutorialBot.csproj.AssemblyReference.cache
+C:\Users\guga toradze\Desktop\ruskie#2\obj\Debug\TutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\guga toradze\Desktop\ruskie#2\obj\Debug\TutorialBot.csproj.CopyComplete
+C:\Users\guga toradze\Desktop\ruskie#2\obj\Debug\TutorialBot.exe
+C:\Users\guga toradze\Desktop\ruskie#2\obj\Debug\TutorialBot.pdb
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\bin\Debug\TutorialBot.exe.config
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\bin\Debug\TutorialBot.exe
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\bin\Debug\TutorialBot.pdb
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\bin\Debug\Discord.Net.Core.xml
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\bin\Debug\System.Interactive.Async.xml
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\obj\Debug\TutorialBot.csproj.AssemblyReference.cache
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\obj\Debug\TutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\obj\Debug\Tutorial.0D7B9A84.Up2Date
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\obj\Debug\TutorialBot.exe
+C:\Users\gugat\OneDrive\Desktop\ruskie#2\obj\Debug\TutorialBot.pdb
